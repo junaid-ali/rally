@@ -2,7 +2,7 @@
     "NeutronNetworks.create_and_list_floating_ips": [
         {
             "args": {
-                "floating_network": "public",
+                "floating_network": "admin_floating_net",
                 "floating_ip_args": {}
             },
             "runner": {
